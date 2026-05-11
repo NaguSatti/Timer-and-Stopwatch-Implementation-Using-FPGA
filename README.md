@@ -7,4 +7,4 @@ segment display control.
 In this project, we implement a digital clock, timer, and stopwatch using the Basys 3 board. 
 These systems rely on precise time counting and display mechanisms, making them ideal for 
 learning about clock division, multiplexing, and hardware description languages such as 
-VHDL or Verilog
+VHDL or Verilog.
